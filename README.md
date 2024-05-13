@@ -1,10 +1,10 @@
-CID_703_Athena_Commando_M_Cyclone, 1000
-BID_468_Cyclone
-CID_761_Athena_Commando_M_CycloneSpace, 1000
-Pickaxe_ID_359_CycloneMale, 500
-EID_Cyclone, 0
-na
-CID_298_Athena_Commando_F_IceMaiden, 1200
+CID_703_Glider_ID_196_CycloneMale,0
+CID_761_Athena_Commando_M_CycloneSpace,200
+CID_703_Athena_Commando_M_Cyclone,200
+CID_761_Athena_Commando_M_CycloneSpace200
+AstronomicalBundle,300
+Pickaxe_ID_179_StarWand,500
+
 CID_220_Athena_Commando_F_Clown, 500
 Pickaxe_ID_363_LollipopTricksterFemale, 500
 EID_AfroHouse, 400
